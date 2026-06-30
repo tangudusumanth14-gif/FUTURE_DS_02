@@ -1,4 +1,6 @@
-# Customer Retention & Churn Analysis
+## Dashboard Preview
+
+![Customer Retention & Churn Dashboard](Customer_Retention_Churn_Dashboard.png)
 
 ## Project Overview
 This project analyzes customer subscription data to identify churn patterns, retention trends, and customer behavior.
